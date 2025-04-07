@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background-color: #fbffd9;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    color: #ff8d8d;
+
+}
+
+canvas {
+    border-radius: 15px;
+    box-shadow: 0 0px 10px rgba(255, 20, 20, 0.7); 
+    border: 0px solid #ff1414; 
+    margin-top: 40px;
+}
+
+.barra{
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    top: 0px;
+}
+
+.btn-partir{
+    margin-top: 15px;
+}
